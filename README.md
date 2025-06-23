@@ -62,4 +62,5 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ## <a name="more">🚀 Connect With Me</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sevgi-grissett/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sevgisarikaya05@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+905372767155)
