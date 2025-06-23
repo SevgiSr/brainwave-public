@@ -1,5 +1,6 @@
 <div align="center">
   <h3 align="center">Modern UI/UX website</h3>
+  <img src="./readme-banner.png" alt="Banner" style="width:100%;" />
 </div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
